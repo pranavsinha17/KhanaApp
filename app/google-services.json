@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "635199438500",
+    "firebase_url": "https://khana-app-a4bbc.firebaseio.com",
+    "project_id": "khana-app-a4bbc",
+    "storage_bucket": "khana-app-a4bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635199438500:android:9b9a9c674940d981",
+        "android_client_info": {
+          "package_name": "com.example.blaze.khanaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635199438500-ct3koq5pgie3v6th6n6dqiikpjv70n3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blaze.khanaapp",
+            "certificate_hash": "a6c5b1aa10c1bdb8c79884652f92e2e4878ca58c"
+          }
+        },
+        {
+          "client_id": "635199438500-q3s7hc8dc9m2l0t2ld6h75mip67d4i80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqlO-Z7uU0xmQxr14Y552Bq5ysYj5iZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635199438500-q3s7hc8dc9m2l0t2ld6h75mip67d4i80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
